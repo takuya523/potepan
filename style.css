@@ -503,6 +503,12 @@ h2 {
   }
 }
 
+@media screen and (min-width: 768px) {
+  .firstviewcontent_buttons a:hover {
+    opacity: .8;
+  }
+}
+
 .firstviewcaption {
   color: #a2a2a4;
   font-size: 12px;
